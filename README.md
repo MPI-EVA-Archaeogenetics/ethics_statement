@@ -6,6 +6,9 @@
 
 * [Introduction](chapter_0.md)
 * [Chapter 1: Accessing human remains](chapter_1.md)
+
+Upcoming:
+
 * [~Chapter 2: Archaeological remains are a finite resource~](chapter_2.md)
 * [~Chapter 3: Major challenges for investigating the past by means of genetics~](chapter_3.md)
 * [~Chapter 4: Results about the human past can have an impact on the human present and future, and must be carefully communicated~](chapter_4.md)
