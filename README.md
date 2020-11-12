@@ -4,8 +4,10 @@
 
 # Assessment and Reflection on the Ethical Dimensions of Archaeogenetics Research 
 
+* [Changelog](CHANGELOG.md)
 * [Introduction](chapter_0.md)
-* [Chapter 1: Accessing human remains](chapter_1.md)
+* [What is Archaeogenetics?](chapter_0b.md)
+* [Chapter 1: Accessing human remains and community engagement](chapter_1.md)
 
 Upcoming:
 
