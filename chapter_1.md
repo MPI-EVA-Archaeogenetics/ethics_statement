@@ -21,6 +21,7 @@ Here we put forward a set of questions to assist researchers in the field of Arc
 7. Are relevant communities in the country of origin or elsewhere, aware of the items in possession of the museum/collection or the excavation? If not, why not?
 
 And especially in the case of long-term collections:
+
 8. What is the chain of custody of the human remains in question before they arrived at a museum or collection?
 9. How did the museum/collection acquire the human remains? Through donation or purchase?
 
