@@ -39,6 +39,8 @@ When appropriate, group or collective consent, i.e. the community is informed ab
 
 ## References
 
+* Hudson, Maui. 2009. “Think Globally, Act Locally: Collective Consent and the Ethics of Knowledge Production.” International Social Science Journal 60 (195): 125–33.
+
 * Pearson, Mike Parker, Tim Schadla-Hall, and Gabe Moshenska. 2011. “Resolving the Human Remains Crisis in British Archaeology.” Papers from the Institute of Archaeology. https://doi.org/10.5334/pia.369.
 
 * Fox, Keolu, and John Hawks. 2019. “Use Ancient Remains More Wisely.” Nature 572 (7771): 581–83.
