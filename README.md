@@ -6,7 +6,7 @@
 
 * [Changelog](CHANGELOG.md)
 * [Introduction](chapter_0.md)
-* [Chapter 1: Accessing human remains and community engagement](chapter_1.md)
+* [Chapter 1: Stakeholders and access to human remains](chapter_1.md)
 
 Upcoming:
 
