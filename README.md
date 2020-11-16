@@ -6,7 +6,6 @@
 
 * [Changelog](CHANGELOG.md)
 * [Introduction](chapter_0.md)
-* [What is Archaeogenetics?](chapter_0b.md)
 * [Chapter 1: Accessing human remains and community engagement](chapter_1.md)
 
 Upcoming:
@@ -17,5 +16,5 @@ Upcoming:
 * [~Chapter 5: Many disciplines study the human past, and interactions across disciplines are challenging because they have different intellectual histories, approaches/viewpoints, and terminology~](chapter_5.md)
 * [~Chapter 6: Data Sharing, Open Access and Computational Reproducibility~](chapter_6.md)
 
-Comments, critique and suggestions can be raised [here 🌎](https://github.com/nevrome/ethics_statement/issues).
+For comments, critique and suggestions please email [Selina Carlhoff]() and [Stephan Schiffels](). Members of the DAG Ethics group can also request access to our private github repository and post and discuss issues [there 🌎](https://github.com/nevrome/ethics_statement/issues).
 

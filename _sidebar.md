@@ -3,7 +3,6 @@
 * [Home](/)
 * [Changelog](CHANGELOG.md)
 * [Introduction](chapter_0.md)
-* [What is Archaeogenetics?](chapter_0b.md)
 
 * [Chapter 1](chapter_1.md)
 * [~Chapter 2~](chapter_2.md)
