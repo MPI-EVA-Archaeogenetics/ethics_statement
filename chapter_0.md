@@ -11,6 +11,7 @@ As scientists, we are not neutral with respect to ethical questions around our r
 This is a living text. As a consequence, it will be further updated through future releases. Changes will be indicated in a [Changelog](CHANGELOG.md). We have structured this document along key topics that we have identified, which can be read and discussed independently, or as a whole. Each section contains a general introduction and discussion of the key problems, as we have experienced them, and also tries to give recommendations on appropriate approaches to dealing with them and aspirations we have for the field (“Best practices”).
 
 This document thus serves three purposes:
+
 - Serve as a living discussion record within our department and as a basis for discussion also beyond our department.
 - Serve as an educational resource for new students or junior researchers entering the field, here or elsewhere.
 - Communicate to our scientific partners, and to the general public, some of the issues we face and the actions we recommend.
