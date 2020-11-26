@@ -1,0 +1,15 @@
+---  
+title: Ethics statement
+output: 
+  pdf_document:
+    toc: yes 
+---
+
+```{r child = 'README.md'}
+```
+
+```{r child = 'chapter_0.md'}
+```
+
+```{r child = 'chapter_1.md'}
+```
