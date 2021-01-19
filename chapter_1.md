@@ -2,7 +2,7 @@
 
 Human remains provide a unique opportunity to study human history and prehistory, which in some cases cannot be reconstructed otherwise, and can present new perspectives on old narratives, as well as uncovering entirely new aspects. At the same time, human remains have spiritual, religious, cultural, and personal value to some communities. This can result in various stakeholders having conflicting interests regarding the need, implementation, and interpretation of genetic studies. How to mediate between these interests is a matter of law, but it also requires careful ethical and cultural considerations. We believe that the treatment of human remains from different cultures must be based on awareness and respect concerning the norms and ideas of their communities of origin.
 
-In the section we want to elaborate on things to consider when working with material from (museum) collections and archaeological fieldwork ([section 1.1](chapter_1?id=_11-human-remains-and-their-provenience)) and about the interaction with the mentioned communities of origin ([section 1.2](chapter_1?id=_12-consultation-of-involved-communities)).
+In the section we want to elaborate on things to consider when working with material from (museum) collections and archaeological fieldwork ([section 1.1](chapter_1.md#11-human-remains-and-their-provenience)) and about the interaction with the mentioned communities of origin ([section 1.2](chapter_1.md#12-consultation-of-involved-communities)).
 
 ## 1.1 Human Remains and their provenience
 
