@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="media/mpi_shh_logo_with_white_background.png" width = 200>
-</p>
-
 # Assessment and Reflection on the Ethical Dimensions of Archaeogenetics Research 
 
 * [Changelog](CHANGELOG.md)
