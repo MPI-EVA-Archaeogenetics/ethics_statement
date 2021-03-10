@@ -1,3 +1,7 @@
+### 0.1.2
+
+- changed some references to make them more consistent, included links to References
+
 ### 0.1.1
 
 - added some comments we received after our first release.
