@@ -26,14 +26,14 @@ When referring to living populations, researchers should try to use the name by 
 ## References
 Birney, Ewan, Michael Inouye, Jennifer Raff, Adam Rutherford, and Aylwyn Scally. 2021. “The Language of Race, Ethnicity, and Ancestry in Human Genetic Research.” arXiv [q-bio.PE]. arXiv. http://arxiv.org/abs/2106.10041.
 
-Feldman, Michal, Daniel M. Master, Raffaela A. Bianco, Marta Burri, Philipp W. Stockhammer, Alissa Mittnik, Adam J. Aja, Choongwon Jeong, and Johannes Krause. 2019. “Ancient DNA Sheds Light on the Genetic Origins of Early Iron Age Philistines.” Science Advances. https://doi.org/10.1126/sciadv.aax0061.
+Feldman, Michal, Daniel M. Master, Raffaela A. Bianco, Marta Burri, Philipp W. Stockhammer, Alissa Mittnik, Adam J. Aja, Choongwon Jeong, and Johannes Krause. 2019. “Ancient DNA Sheds Light on the Genetic Origins of Early Iron Age Philistines.” Science Advances 5(7). https://doi.org/10.1126/sciadv.aax0061.
 
-Margaryan, Ashot, Daniel J. Lawson, Martin Sikora, Fernando Racimo, Simon Rasmussen, Ida Moltke, Lara M. Cassidy, et al. 2020. “Population Genomics of the Viking World.” Nature 585 (7825): 390–96.
+Margaryan, Ashot, Daniel J. Lawson, Martin Sikora, Fernando Racimo, Simon Rasmussen, Ida Moltke, Lara M. Cassidy, et al. 2020. “Population Genomics of the Viking World.” Nature 585 (7825): 390–96. https://doi.org/10.1038/s41586-020-2688-8
 
 Perreault, Charles. 2019. The Quality of the Archaeological Record. University of Chicago Press.
 
-Stephan Shennan, Introduction: Archaeological Approaches to Cultural Identity. In: S. Shennan, Archaeological Approaches to Cultural Identity (London 1989) 1-32
+Stephan Shennan. 1989. "Introduction: Archaeological Approaches to Cultural Identity" In Archaeological Approaches to Cultural Identity, 1-32. London.
 
-Schiffels, Stephan, Wolfgang Haak, Pirita Paajanen, Bastien Llamas, Elizabeth Popescu, Louise Loe, Rachel Clarke, et al. 2016. “Iron Age and Anglo-Saxon Genomes from East England Reveal British Migration History.” Nature Communications 7 (January): 10408.
+Schiffels, Stephan, Wolfgang Haak, Pirita Paajanen, Bastien Llamas, Elizabeth Popescu, Louise Loe, Rachel Clarke, et al. 2016. “Iron Age and Anglo-Saxon Genomes from East England Reveal British Migration History.” Nature Communications 7: 10408. https://doi.org/10.1038/ncomms10408
 
-Winther, Rasmus Grønfeldt, Ryan Giordano, Michael D. Edge, and Rasmus Nielsen. 2015. “The Mind, the Lab, and the Field: Three Kinds of Populations in Scientific Practice.” Studies in History and Philosophy of Biological and Biomedical Sciences 52 (August): 12–21.
+Winther, Rasmus Grønfeldt, Ryan Giordano, Michael D. Edge, and Rasmus Nielsen. 2015. “The Mind, the Lab, and the Field: Three Kinds of Populations in Scientific Practice.” Studies in History and Philosophy of Biological and Biomedical Sciences 52: 12–21. https://doi.org/10.1016/j.shpsc.2015.01.009
