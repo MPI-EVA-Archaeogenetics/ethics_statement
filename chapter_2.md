@@ -21,12 +21,12 @@ In summary, archaeological remains are a finite and scientifically precious sour
 ## References
 
 * Bolus, Michael. 2015. “History of Research and the Aurignacian of the Sites in the Swabian Jura.” In Human Origin Sites and the World Heritage Convention in Eurasia, edited by Nuria Sanz Anjelica Young, 2:32–49.
-* Browman, David L., and Douglas R. Givens. 1996. “Stratigraphic Excavation: The First ‘New Archaeology.’” American Anthropologist 98 (1): 80–95.
+* Browman, David L., and Douglas R. Givens. 1996. “Stratigraphic Excavation: The First ‘New Archaeology.’” American Anthropologist 98 (1): 80–95. https://www.jstor.org/stable/682955
 * Fagernäs, Zandra, Maite I. García-Collado, Jessica Hendy, Courtney A. Hofman, Camilla Speller, Irina Velsko, and Christina Warinner. 2020. “A Unified Protocol for Simultaneous Extraction of DNA and Proteins from Archaeological Dental Calculus.” Journal of Archaeological Science 118 (June): 105135.
-* Fellmann, Berthold. 1973. “The History of Excavations at Olympia.” Olympic Review 64 (65): 109–18.
+* Fellmann, Berthold. 1973. “The History of Excavations at Olympia.” Olympic Review 64 (65): 109–18. https://doi.org/10.1016/j.jas.2020.105135
 * Harney, Éadaoin, Olivia Cheronet, Daniel M. Fernandes, Kendra Sirak, Matthew Mah, Rebecca Bernardos, Nicole Adamski, et al. 2021. “A Minimally Destructive Protocol for DNA Extraction from Ancient Teeth.” Genome Research, February. https://doi.org/10.1101/gr.267534.120.
 * Harris, Edward C. 2006. “Archaeology and the Ethics of Scientific Destruction.” In Between Dirt and Discussion: Methods, Methodology, and Interpretation in Historical Archaeology, edited by Steven N. Archer and Kevin M. Bartoy, 141–50. Boston, MA: Springer US.
-* Korlević, Petra, Sahra Talamo, and Matthias Meyer. 2018. “A Combined Method for DNA Analysis and Radiocarbon Dating from a Single Sample.” Scientific Reports 8 (1): 4127.
+* Korlević, Petra, Sahra Talamo, and Matthias Meyer. 2018. “A Combined Method for DNA Analysis and Radiocarbon Dating from a Single Sample.” Scientific Reports 8 (1): 4127. https://doi.org/10.1038/s41598-018-22472-w
 * Lucas, Gavin. 2002. Critical Approaches to Fieldwork: Contemporary and Historical Archaeological Practice. Routledge.
 * Parker, C., Rohrlach, A.B., Friederich, S. et al. A systematic investigation of human DNA preservation in medieval skeletons. Sci Rep 10, 18225 (2020). https://doi.org/10.1038/s41598-020-75163-w
 * Parslow, Christopher Charles. 1998. Rediscovering Antiquity: Karl Weber and the Excavation of Herculaneum, Pompeii and Stabiae. Cambridge University Press.
