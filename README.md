@@ -11,5 +11,5 @@ Upcoming:
 * [~~Chapter 5: Many disciplines study the human past, and interactions across disciplines are challenging because they have different intellectual histories, approaches/viewpoints, and terminology~~](chapter_5.md)
 * [~~Chapter 6: Data Sharing, Open Access and Computational Reproducibility~~](chapter_6.md)
 
-We want to encourage a discussion and would very much appreciate your feedback. Please share your comments, critique and suggestions on our [github discussion forum](https://github.com/MPI-EVA-Archaeogenetics/ethics_statement/discussions) or in an email to [Stephan Schiffels](mailto:schiffels@shh.mpg.de) and [Selina Carlhoff](mailto:carlhoff@shh.mpg.de).
+We want to encourage a discussion and would very much appreciate your feedback. Please share your comments, critique and suggestions on our [github discussion forum](https://github.com/MPI-EVA-Archaeogenetics/ethics_statement/discussions) or in an email to [Stephan Schiffels](mailto:stephan_schiffels@eva.mpg.de) and [Selina Carlhoff](mailto:selina_carlhoff@eva.mpg.de).
 
